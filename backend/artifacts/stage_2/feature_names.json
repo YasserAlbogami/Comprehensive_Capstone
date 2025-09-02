@@ -1,0 +1,22 @@
+[
+  "num__frame.len",
+  "num__frame.time_delta",
+  "num__frame.time_delta_displayed",
+  "num__frame.time_relative",
+  "num__radiotap.channel.freq",
+  "num__radiotap.datarate",
+  "num__radiotap.dbm_antsignal",
+  "num__wlan.duration",
+  "num__wlan.fc.ds",
+  "num__wlan.fc.protected",
+  "num__wlan.fc.type",
+  "num__wlan.fc.retry",
+  "num__wlan.fc.subtype",
+  "num__wlan.fixed.beacon",
+  "num__wlan_radio.duration",
+  "num__wlan.seq",
+  "num__wlan_radio.channel",
+  "num__wlan_radio.data_rate",
+  "num__wlan_radio.signal_dbm",
+  "num__wlan_radio.phy"
+]
