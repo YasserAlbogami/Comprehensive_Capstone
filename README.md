@@ -87,8 +87,7 @@ Built for **edge deployment on Raspberry Pi 5**, it leverages **machine learning
 
 ### 1. Clone the Repo
 ```bash
-git clone https://github.com/yourusername/HawkShield-IPS.git
-cd HawkShield-IPS
+git https://github.com/YasserAlbogami/Comprehensive_Capstone
 ````
 
 ### 2. Create Virtual Environment
