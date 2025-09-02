@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+streamlit
+pyshark
+scapy
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+lightgbm
+sqlalchemy
+psycopg2-binary
+faiss-cpu
+qdrant-client
+reportlab
+python-dotenv
