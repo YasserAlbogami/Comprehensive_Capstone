@@ -45,13 +45,6 @@ Built for **edge deployment on Raspberry Pi 5**, it leverages **machine learning
 | GET    | `/channel-usage`    | Channel usage by frequency.                                |
 | GET    | `/heatmap-attack`   | Week-day × hour heatmap (UTC) from timestamps.             |
 
----
-
-### 🛠️ Detector Control
-
-| Method | Endpoint           | Description                          |
-|-------:|--------------------|--------------------------------------|
-| POST   | `/detector/start`  | Start the detector with a config.    |
 
 ---
 
@@ -148,7 +141,7 @@ Contributions are welcome! Fork the repo and open a pull request.
 
 ## 📜 License
 
-Copyright (c) 2025 \[Your Name]
+Copyright (c) 2025 \[Yasser , Mohammed, Haya, Ghala and Lena ]
 
 All rights reserved. Unauthorized copying, modification, or distribution is prohibited.
 
@@ -156,8 +149,8 @@ All rights reserved. Unauthorized copying, modification, or distribution is proh
 
 ## 📬 Contact
 
-Developed by [Your Team / Name](https://www.linkedin.com/in/yourprofile)
-📧 [your\_email@example.com](mailto:your_email@example.com)
+Developed by HawkSheild
+📧 [your\_email@example.com](mailto: yasserayalbogami@gmail.com)
 
 ---
 
