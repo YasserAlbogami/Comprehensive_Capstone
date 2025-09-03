@@ -150,7 +150,7 @@ All rights reserved. Unauthorized copying, modification, or distribution is proh
 ## 📬 Contact
 
 Developed by HawkSheild
-📧 [your\_email@example.com](mailto: yasserayalbogami@gmail.com)
+📧 mailto: [yasserayalbogami@gmail.com]
 
 ---
 
@@ -161,9 +161,4 @@ Developed by HawkSheild
 * ☁️ Cloud sync for reports
 * 🧩 Enterprise SIEM integration
 
-```
-
----
-
-Would you like me to also **add your team members section** (like in your infographic: Lena, Ghala, Mohammed, Yasser, Haya) under the Contact area?
 ```
