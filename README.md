@@ -115,10 +115,10 @@ uvicorn main:app --reload
 ```
 
 HawkShield-IPS/
-├── AI\_models/           # Trained ML models (LightGBM, scikit-learn, etc.)
+├── AI\_models/           # Trained ML models binary & multi-classifier (LightGBM)
 ├── backend/             # FastAPI backend (routers, services, DB, utils)
 ├── Data/                # Raw & processed datasets
-├── frontend/            # Streamlit or web dashboard code
+├── frontend/            # Next.js frontend
 ├── Notebooks/           # Jupyter/Colab notebooks for experiments & EDA
 ├── main.py              # API entry point
 ├── requirements.txt     # Python dependencies
